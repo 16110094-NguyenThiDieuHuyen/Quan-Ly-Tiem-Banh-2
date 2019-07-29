@@ -1,0 +1,7 @@
+E:\QuanLyTiemBanh\QuanLyTiemBanhDAL\bin\Debug\QuanLyTiemBanhDAL.dll.config
+E:\QuanLyTiemBanh\QuanLyTiemBanhDAL\bin\Debug\QuanLyTiemBanhDAL.dll
+E:\QuanLyTiemBanh\QuanLyTiemBanhDAL\bin\Debug\QuanLyTiemBanhDAL.pdb
+E:\QuanLyTiemBanh\QuanLyTiemBanhDAL\obj\Debug\QuanLyTiemBanhDAL.csprojResolveAssemblyReference.cache
+E:\QuanLyTiemBanh\QuanLyTiemBanhDAL\obj\Debug\QuanLyTiemBanhDAL.csproj.CoreCompileInputs.cache
+E:\QuanLyTiemBanh\QuanLyTiemBanhDAL\obj\Debug\QuanLyTiemBanhDAL.dll
+E:\QuanLyTiemBanh\QuanLyTiemBanhDAL\obj\Debug\QuanLyTiemBanhDAL.pdb

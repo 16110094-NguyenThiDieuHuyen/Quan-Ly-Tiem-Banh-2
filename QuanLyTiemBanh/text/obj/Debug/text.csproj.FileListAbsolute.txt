@@ -1,0 +1,7 @@
+E:\QuanLyTiemBanh\text\bin\Debug\text.exe.config
+E:\QuanLyTiemBanh\text\bin\Debug\text.exe
+E:\QuanLyTiemBanh\text\bin\Debug\text.pdb
+E:\QuanLyTiemBanh\text\obj\Debug\text.csprojResolveAssemblyReference.cache
+E:\QuanLyTiemBanh\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+E:\QuanLyTiemBanh\text\obj\Debug\text.exe
+E:\QuanLyTiemBanh\text\obj\Debug\text.pdb
